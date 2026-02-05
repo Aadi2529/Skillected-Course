@@ -1,0 +1,49 @@
+// git --version
+git config --global user.name
+git config --global user.email
+
+
+git init
+git add .
+git commit -m "message"
+git remote --v
+git branch -M main
+git push -u origin main 
+
+
+02-03-2026
+
+
+div tag
+span tag
+
+
+
+
+read symentic tag
+existing page add span and div tag
+
+
+
+04-03-2026
+
+Symentic tag
+
+meaning ful tag 
+use 
+improve code readability + reusability 
+better seo  / website google top list me rank karvate hai
+make layout strucute
+industry standard
+
+
+
+make portfoilo using symantic tag
+
+skill 
+education
+projects
+add resume using google drive
+
+
+portfoilo kese bnate hain
