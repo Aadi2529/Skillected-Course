@@ -1,0 +1,21 @@
+10/02/2026
+
+ <!-- css Cascading stylesheet -->
+
+    <!-- website ko desinge krne ke liye css ka use hota hain-->
+    <!-- Html ke elemeent ka look control krta hai -->
+    <!-- css koi programming language nahi hein  -->
+    <!-- ismain logic, if-else,loops kuch nahi hota -->
+    <!-- html is body and css is dressing -->
+    <!-- html         |  css           | JS -->
+    <!-- kya dikhana  | kese dikhana   | action/logic -->
+
+    <!-- syntax of css
+        selector{
+            property: value;
+        } 
+    
+    -->
+    <!-- Selector -> Kis per style lagana hain -->
+    <!-- Property -> kya change krna hain -->
+    <!-- Value -> kaise change krna hain -->
