@@ -19,3 +19,64 @@
     <!-- Selector -> Kis per style lagana hain -->
     <!-- Property -> kya change krna hain -->
     <!-- Value -> kaise change krna hain -->
+
+
+
+
+11/02/2026
+ Type of CSS
+  1. Inline css
+  2. Internal css
+  3. external css
+
+   Inline css -> tag ke aandar
+
+    internal css -> hamare head tag ke andar style nam ka tag bankar
+
+    external css -> alag se ek file banate hain jiska extensin .css hota hai usme apna css code likhte hai aur us file ko apne html file ke head tag me link kr dete hai
+
+
+ Selectors:
+  Css me selector batata hai kis html pr style lagana hai
+  (Selectors means elections)
+    1 Element Selector -> Tag name se select krta hai (h1,p tags)
+
+    2 Class selector -> class name se select krta hai (class keyword usko define krte hai) ( .abc se select krte hein)
+
+    3 id selector -> id name se select krta hai (#abc se select krta hein)
+
+    4 universal selector -> * se select krta hai (* se select krta hai sabhi element ko select krta hain )
+
+    5 group selector -> ek se jyada selector ko ek sath select krta hai ( multiple Selectors , h1,h2 se h1 aur h2 dono ko select krta hein)
+
+    6 attribute selector -> kisi element ke attribute ke basis par select krta hai
+
+    7 pseudo class selector -> element ke specific part ko select krta hai
+
+    8 pseudo element selector -> element ke specific part ko select krta hai
+
+    9 descendant Selector -> parent-child relationship ke basis par select krta hai
+
+    10 child selector -> direct parent-chhild relationship ke basis par select krta hai
+
+ Rules of Selector -> HW
+    CSS reads selectors from right to left.
+    More specific selectors override less specific ones.
+    If specificity is equal, the last declared rule wins.
+    Avoid overusing IDs.
+    Keep selectors simple for better performance.
+
+    class vs id pdhke ana HW
+
+
+        | Point          | Class (`.`)                      | ID (`#`)                             |
+        | -------------- | -------------------------------- | ------------------------------------ |
+        | Symbol         | `.` (dot)                        | `#` (hash)                           |
+        | Uniqueness     | Can be used on multiple elements | Must be unique in a page             |
+        | Reusability    | Reusable                         | Not reusable                         |
+        | Specificity    | 10 (medium priority)             | 100 (high priority)                  |
+        | Styling Use    | Commonly used for styling        | Not recommended for repeated styling |
+        | JavaScript Use | Can select multiple elements     | Targets one specific element         |
+        | Best Practice  | Preferred for CSS styling        | Used for unique sections or anchors  |
+
+
