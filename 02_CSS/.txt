@@ -79,4 +79,3 @@
         | JavaScript Use | Can select multiple elements     | Targets one specific element         |
         | Best Practice  | Preferred for CSS styling        | Used for unique sections or anchors  |
 
-

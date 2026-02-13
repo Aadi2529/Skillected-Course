@@ -2,6 +2,23 @@ h1{
     color: red;
 }
 
-p{
+/* p{
+  
     color:burlywood;
+} */
+
+    /* <!-- 12/02/2026 --> */
+
+.box{
+    background-color: beige;
+}
+
+p{
+    color: blueviolet;
+    
+}
+
+#dec{
+    color: chocolate;
+    background-color: black;
 }
