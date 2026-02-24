@@ -79,3 +79,40 @@
         | JavaScript Use | Can select multiple elements     | Targets one specific element         |
         | Best Practice  | Preferred for CSS styling        | Used for unique sections or anchors  |
 
+
+
+<!-- Prioriy of Selecotrs -->
+    <!-- 1.ID -->
+    <!-- 2.Class -->
+    <!-- 3.element selectors  -->
+
+
+
+<!-- 13/02/2026 -->
+    <!-- Types of color -->
+        <!-- 1. color name  -->
+        <!-- 2. Hexa code -->
+        <!-- 3. RGB: (Red, green, blue) -->
+    <!-- background colors -->
+      
+    <!-- font styling -->
+
+        .fonts{
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: 20px;
+        }
+Task
+    abhi tak jo kaam kiya hein html pe 
+    color, bg-color,text-decorations and text-styling
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
