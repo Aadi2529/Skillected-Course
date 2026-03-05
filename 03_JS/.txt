@@ -1,0 +1,78 @@
+25/02/2026
+
+what is javascript
+    JS high level programming lanugage that is commanly classied as a scriptiing language.
+    because it runs inside browsers and does not need to be compiled
+    js is a multi paradigm language that supports object oriented programming,
+    procedural programming and functional programming
+
+    it is a dynamic language that can be used for both
+    client side and server side devlopment.
+
+    high level -> easy to read and write for humans
+    low level - > closer to machine code,
+    harder for humans to read and write
+
+where is use JS
+    front end dev -> creating interactive and dynamic web pages
+
+    back end dev -> creating server side applications and APIs
+
+    mobile app devlopment -> creating mobile applications using frameworks like React Native
+
+    game devlopment -> creating games using libraries like Phaserr
+
+    desktop application devlopment -> creatingdesktop applications using frameworks like Electron
+
+
+
+why learn javascript
+    its run every browser -> yo can create interactive web pages and applications
+    it is fast
+    it is beginner friendly -> easy to learn and use for beginners 
+    it is require for modren frameworks : reactnative, angular , vue, react libray Electron
+
+
+Features of JS
+    lightweight -> it does not need heavy setup
+    it runs directly in the browser 
+    no need for compliation
+    uses less memory compared to other programming languages
+    that's why it is fast and efficient for web devlopment
+
+object oriented programming
+    javascript supports object oriented programming (OOPs)
+    it allows you to create objects and classes
+    objects are collections of properties and methods classes are blueprints for creating objects
+    code reusability -> you can create reusable code using functions and classes
+
+Event Driven programming 
+    javascript is an event driven programming language 
+    it allos you to respond to user interactions and events
+    such as clicks, mouse movements, keyboard input Electron
+    you can use event listeners to listen for events and execute code when the event occurs
+
+
+    
+
+
+
+
+
+
+var -> (old version - Es5)
+    eg.
+    var age = 25;
+    is function scoped
+    can redeclared
+        var age = 27
+
+
+let (recommended)
+    let city = "Nagpur";
+    city = "Chh. Sambhaji Nagar";
+    block scoped
+    cannnot be redeclared in same scope
+    can be updated
+    safer than var keyward
+
